@@ -1,7 +1,7 @@
 package algocodeio.twopointers;
 
 public class RegularPalindrome {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         System.out.print("Result №1 of solution 1 is ");
         System.out.println(defineIsARegularPalindrome1("Re, b1 1 B e r"));
         System.out.print("Result №2 of solution 2 is ");
