@@ -68,9 +68,6 @@ public class OneSidedDifference {
       }
     }
 
-    // дописываем остаток того массива, который не закончился
-    result.addAll(nums1.subList(p1, nums1.size()));
-
     return result;
   }
 }
